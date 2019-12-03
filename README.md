@@ -5,4 +5,6 @@ ShenzhenETS.m scrapes the data for the Shenzhen market. Source: http://www.cerx.
 
 BeijingETS.m scrapes the data for the Beijing market. Source: https://www.bjets.com.cn/article/jyxx/#
 
+TianjinETS.m scrapes the data for the Tianjin market. Source: https://www.chinatcx.com.cn/list/13.html
+
 Data for the Guangzhou market can be downloaded: http://www.cnemission.com/article/hqxx/
