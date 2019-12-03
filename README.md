@@ -8,3 +8,5 @@ BeijingETS.m scrapes the data for the Beijing market. Source: https://www.bjets.
 TianjinETS.m scrapes the data for the Tianjin market. Source: https://www.chinatcx.com.cn/list/13.html
 
 Data for the Guangzhou market can be downloaded: http://www.cnemission.com/article/hqxx/
+
+Data for the Chongqing market can be copy-pasted from: http://tpf.cqggzy.com:100/itf/themes/cqkfts/index.html
